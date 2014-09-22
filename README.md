@@ -1,6 +1,6 @@
-# [Sass CSS3 Mixins! The Cross-Browser CSS3 Sass Library](http://mynameismatthieu.com/sass-css3-mixins/)
+# Sass CSS3 Mixins! The Cross-Browser CSS3 Sass Library
 
-By: [Matthieu Aussaguel](http://www.mynameismatthieu.com), [@mattaussaguel](https://twitter.com/#!/mattaussaguel)
+Original By: [Matthieu Aussaguel](http://www.mynameismatthieu.com), Edited By Simon Bowler
 
 List of CSS3 Sass Mixins File to be `@imported` and `@included` as you need
 
