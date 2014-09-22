@@ -80,7 +80,7 @@ http://mynameismatthieu.com/sass-css3-mixins/
  </tr>
  <tr>
    <td>opacity</td>
-   <td>Opacity: 0.5</td>
+   <td>Opacity</td>
  </tr>
  <tr>
    <td>outline radius</td>
@@ -104,7 +104,7 @@ http://mynameismatthieu.com/sass-css3-mixins/
  </tr>
  <tr>
    <td>transition</td>
-   <td>What: all, Length: 1s, Easing: ease-in-out</td>
+   <td>all, 1s, ease-in-out</td>
  </tr>
  <tr>
    <td>triple-borders</td>
